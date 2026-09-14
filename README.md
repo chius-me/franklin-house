@@ -80,6 +80,17 @@ python3 scripts/encode_walkthrough.py
 | `video/` | 漫游 MP4 |
 | `references/` | 游戏截图对照，不参与材质或渲染 |
 | `scene_manifest.json` | 对象 / 网格 / 材质统计 |
+| `LICENSE` | CC BY 4.0 许可全文 |
+
+## 许可
+
+本仓库中由作者创作的内容（Blender 工程、脚本、效果图、漫游视频等）采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，全文见 [`LICENSE`](LICENSE)。使用、改编或再分发时请署名，并附上许可链接。
+
+推荐署名：`chius-me / franklin-house`（https://github.com/chius-me/franklin-house），CC BY 4.0。
+
+`references/` 中的游戏截图仅作建模对照，版权归原作者及 Take-Two Interactive / Rockstar Games 所有，**不在**本许可范围内。
+
+Grand Theft Auto、GTA V、Franklin、3671 Whispymound Drive 及相关名称是 Take-Two Interactive / Rockstar Games 的商标或版权作品。本项目为非官方粉丝向参考重建，与上述公司无关，也不构成对其知识产权的授权。
 
 ## 参考
 
