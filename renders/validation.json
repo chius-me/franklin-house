@@ -1,0 +1,21 @@
+{
+  "blend_file": "/Users/chius/repo/github/franklin-house/Franklin_3671_Whispymound.blend",
+  "objects": 2779,
+  "mesh_objects": 2649,
+  "cameras": 4,
+  "collections": 11,
+  "missing_images": [],
+  "invalid_transforms": [],
+  "empty_meshes": [],
+  "camera_markers": {
+    "1": "01 \u00b7 Pool elevation / HERO",
+    "2": "02 \u00b7 Pool terrace / eye level",
+    "3": "03 \u00b7 Whispymound Drive / entrance",
+    "4": "04 \u00b7 Site overview"
+  },
+  "renders": [
+    "/Users/chius/repo/github/franklin-house/renders/01_pool_hero.png",
+    "/Users/chius/repo/github/franklin-house/renders/02_pool_terrace.png",
+    "/Users/chius/repo/github/franklin-house/renders/03_street_entrance.png"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "objects": 2779,
+  "meshes": 2650,
+  "materials": 46,
+  "collections": 11,
+  "cameras": 4,
+  "blend_file": "/Users/chius/repo/github/franklin-house/Franklin_3671_Whispymound.blend",
+  "render_engine": "CYCLES",
+  "device": "GPU",
+  "vertices": 401633
+}

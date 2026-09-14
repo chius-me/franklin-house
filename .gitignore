@@ -1,0 +1,21 @@
+# OS junk
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Blender autosave / backup
+*.blend1
+*.blend2
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Render / encode logs
+*.log
+renders/*.log
+video/*.log
+
+# Walkthrough PNG sequence (~441 MB). Rebuild with scripts/render_walkthrough.py
+video/frames/
